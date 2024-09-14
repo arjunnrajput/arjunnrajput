@@ -105,7 +105,7 @@
 ---
 
 <h3 align="left">Certifications:</h3>
-<p align="left">
+
   • Data Analysis Using Python | IBM  
   • Apache Hadoop | IBM  
   • Big Data | IBM  
@@ -114,4 +114,4 @@
   • Cloud Foundations | AWS Academy  
   • Machine Learning | AWS Academy  
   • Excel Skills for Business | Coursera
-</p>
+
